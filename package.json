@@ -1,6 +1,7 @@
 {
   "name": "basis.cash",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@ethersproject/providers": "^5.0.9",
